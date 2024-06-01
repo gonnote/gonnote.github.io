@@ -63,16 +63,3 @@ category: study
   
 
 
-
-
-
-
-
-
-
-
-```python
-
-```
-
-

@@ -1,21 +1,15 @@
 ---
-title:  "[AUTOSAR] DCM"
-excerpt: "리프로그래밍 시에만 부트로 점프하지 않는다. DCM의 서비스 전환 과정도 부트로더와 관련 있다."
-
-categories:
-  - Blog
-tags:
-  - [Autosar, UDS ON CAN, Diagnosis]
-
-toc: true
-toc_sticky: true
- 
-date: 2024-03-05
-last_modified_at: 2024-03-05
+layout: post
+title: Autosar DCM 
+excerpt: "Overall summary of the DCM"
+modified: 06/01/2024, 0:12:24
+tags: [Autosar, DCM]
+comments: true
+category: study
 ---
 
 
-# DCM
+# Introduction
 
 > 10 서비스에 대한 부트로 점프 요청을 처리하는 과정은 DCM에서 이루어짐
 

@@ -1,16 +1,21 @@
 ---
-layout: post
-title: Autosar DCM 
-excerpt: "Overall summary of the DCM"
-modified: 06/01/2024, 0:12:24
-tags: [Autosar, DCM]
-comments: true
+title:  "[AUTOSAR] DCM"
+excerpt: "리프로그래밍 시에만 부트로 점프하지 않는다. DCM의 서비스 전환 과정도 부트로더와 관련 있다."
+
 categories:
- - Autosar
+  - Autosar
+tags:
+  - [Autosar, UDS ON CAN, Diagnosis]
+
+toc: true
+toc_sticky: true
+ 
+date: 2024-03-05
+last_modified_at: 2024-03-05
 ---
 
 
-# Introduction
+# DCM
 
 > 10 서비스에 대한 부트로 점프 요청을 처리하는 과정은 DCM에서 이루어짐
 
@@ -62,5 +67,18 @@ categories:
 - 리셋이 수행되는 부분이며, 첫번째 명령어를 강제로 실행할 때 트리거된다. <br>
   또는, 와치독 리셋으로 트리거될 수 있다. 
   
+
+
+
+
+
+
+
+
+
+
+```python
+
+```
 
 

@@ -5,7 +5,8 @@ excerpt: "Overall summary of the DCM"
 modified: 06/01/2024, 0:12:24
 tags: [Autosar, DCM]
 comments: true
-category: study
+categories:
+ - Autosar
 ---
 
 

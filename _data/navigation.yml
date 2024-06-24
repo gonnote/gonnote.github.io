@@ -1,3 +1,16 @@
+<<<<<<< HEAD
+# main links
+main:
+  - title: "Category"
+    url: /categories/
+  - title: "About me"
+    url: /about me/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+=======
 # main links
 main:
   - title: "Category"
@@ -9,4 +22,5 @@ main:
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
+>>>>>>> c27dbf2309c0cd483a472cbab4662f3073e91d39
   #   url: /sitemap/
